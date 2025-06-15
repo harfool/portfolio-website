@@ -23,7 +23,7 @@ const Projects = () => {
       description: 'Intelligent code analysis tool with AI-powered suggestions, automated code review, bug detection, and code generation capabilities using MERN stack.',
       tech: ['MERN', 'MongoDB', 'Express.js', 'React.js', 'Node.js', 'REST APIs'],
       image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&h=300&fit=crop',
-      github: 'https://github.com/harfool/code-review-ai/commits/main/',
+      github: 'https://github.com/harfool/code-review-ai',
       live: '#',
       featured: true,
       

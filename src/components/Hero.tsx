@@ -32,7 +32,7 @@ const Hero = () => {
           }`}>
             <div className="mb-8">
               <div className="w-32 h-32 mx-auto mb-6 bg-gradient-to-br from-blue-600 to-purple-600 rounded-full flex items-center justify-center text-white text-4xl font-bold animate-float">
-                <img src="/public/img.jpg" className="w-full h-full rounded-full" alt="" />
+                <img src="https://dqy38fnwh4fqs.cloudfront.net/UHR86P8ELA7GRKB1RD7D68A97QDB/hr86p8ela7grkb1rd7d68a97qdb-1921-profile.webp" className="w-full h-full rounded-full" alt="" />
               </div>
             </div>
             

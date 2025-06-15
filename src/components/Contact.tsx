@@ -79,7 +79,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Rajasthan, India',
+      value: 'Bhilwara , Rajasthan',
       href: '#',
     },
   ];
