@@ -22,7 +22,7 @@ const Projects = () => {
       title: 'AI-Powered Code Review & Generation Tool',
       description: 'Intelligent code analysis tool with AI-powered suggestions, automated code review, bug detection, and code generation capabilities using MERN stack.',
       tech: ['MERN', 'MongoDB', 'Express.js', 'React.js', 'Node.js', 'REST APIs'],
-      image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&h=300&fit=crop',
+      image: 'https://images.prismic.io/hatica/659f883f7a5e8b1120d56eae_TopAItoolstohelpyouwithcodereviewsin2024-2-.jpg?auto=format%2Ccompress&rect=0%2C0%2C1800%2C1151&w=1200&h=767',
       github: 'https://github.com/harfool/code-review-ai',
       live: '#',
       featured: true,
@@ -32,7 +32,7 @@ const Projects = () => {
       title: 'Shri Bala ji Education computer center ',
       description: 'Interactive web application showcasing various technology stacks with detailed comparisons, user preferences, and technology recommendations.',
       tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'Responsive Design'],
-      image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=500&h=300&fit=crop',
+      image: 'https://mintbook.com/blog/wp-content/uploads/2020-10-27_125911.jpg.webp',
       github: 'https://github.com/harfool/Shri-Bala-ji-Education-computer-center-LMS-',
       live: '#',
       featured: true,
@@ -42,11 +42,11 @@ const Projects = () => {
       title: 'Developer Portfolio',
       description: 'Modern, responsive portfolio website with dark/light theme toggle, smooth animations, and optimized performance built with React and Tailwind CSS.',
       tech: ['React.js', 'Tailwind CSS', 'Framer Motion', 'Responsive Design'],
-      image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&h=300&fit=crop',
+      image: 'https://www.flexyui.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Fcpnw7c0xpe%2FTailwind%2520Components%2FTemplates%2FFlexy%2520Dev%2520Cover%2520New.png%3FupdatedAt%3D1741812978958&w=3840&q=75',
       github: 'https://github.com/harfool/Harfool_gujjarPortfolio',
       live: '#',
       featured: true,
-      status: 'Freelancing · Ongoing'
+      // status: 'Freelancing · Ongoing'
     }
   ];
 
@@ -89,7 +89,7 @@ const Projects = () => {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500" />
                   <div className="absolute bottom-4 left-4 right-4 opacity-0 group-hover:opacity-100 transition-all duration-500 transform translate-y-4 group-hover:translate-y-0">
                     <div className="flex space-x-2">
-                      <Button
+                      {/* <Button
                         size="sm"
                         variant="secondary"
                         className="bg-white/90 text-gray-900 hover:bg-white transform hover:scale-110 transition-all duration-300"
@@ -99,7 +99,7 @@ const Projects = () => {
                           <ExternalLink className="h-4 w-4 mr-1" />
                           Live Demo
                         </a>
-                      </Button>
+                      </Button> */}
                       <Button
                         size="sm"
                         variant="secondary"
@@ -151,7 +151,7 @@ const Projects = () => {
                   </div>
 
                   <div className="flex space-x-3">
-                    <Button
+                    {/* <Button
                       variant="outline"
                       size="sm"
                       className="flex-1 hover:bg-blue-50 dark:hover:bg-blue-900 hover:border-blue-300 dark:hover:border-blue-600 transition-all duration-300 transform hover:scale-105"
@@ -161,7 +161,7 @@ const Projects = () => {
                         <ExternalLink className="h-4 w-4 mr-1" />
                         Live Demo
                       </a>
-                    </Button>
+                    </Button> */}
                     <Button
                       variant="outline"
                       size="sm"
